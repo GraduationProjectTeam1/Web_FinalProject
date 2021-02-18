@@ -114,3 +114,7 @@
     .margin-move {
         padding-right: 30px;
     } */
+    
+    html {
+        scroll-behavior: smooth;
+    }
