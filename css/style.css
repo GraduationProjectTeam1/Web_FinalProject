@@ -7,6 +7,15 @@
         background-attachment: fixed;
     }
     
+    .jumbotron1 {
+        background-image: url("/images/pexels-chokniti-khongchum-2280547.jpg");
+        background-repeat: no-repeat;
+        margin-bottom: 0px;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    
     #simulation {
         background-color: #ecf0f1;
     }
@@ -118,3 +127,46 @@
     html {
         scroll-behavior: smooth;
     }
+    
+    .marginTop {
+        margin-top: 100px;
+    }
+    
+    .margin-Top {
+        margin-top: 100px;
+        /* justify-content: initial; */
+    }
+    
+    .image {
+        background-repeat: no-repeat;
+        margin-bottom: 50px;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        width: 500px;
+        height: 500px;
+    }
+    
+    .moving-top {
+        margin-top: 80px;
+    }
+    
+    .centeralize {
+        justify-content: center;
+    }
+    
+    .text-decoration {
+        /* border-bottom: 1px solid #000; */
+        font-size: 2.5rem;
+        font-weight: 700;
+        border-bottom: 2px solid #34495e;
+        display: inline-block;
+        padding-bottom: 10px;
+        font-family: sans-serif;
+    }
+    /* a:hover {
+        border-bottom: 2px solid #34495e;
+        display: inline-block;
+        padding-bottom: 10px;
+        font-family: sans-serif;
+    } */
