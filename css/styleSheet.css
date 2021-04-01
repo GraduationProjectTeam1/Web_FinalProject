@@ -176,10 +176,11 @@ h2 {
     transition: .3s all ease;
 }
 
-.control input:checked~.control__indicator:after {
-    display: block;
+
+/* .control input:checked~.control__indicator:after {
+    display: none;
     color: #fff;
-}
+} */
 
 .control-checkbox .control__indicator:after {
     top: 50%;
